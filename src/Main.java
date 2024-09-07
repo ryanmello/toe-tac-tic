@@ -5,6 +5,6 @@ public class Main {
         my_board.printBoard();
         my_board.play();
 
-        System.out.println("Thank you for playing! Come back to waste more of your time!");
+        System.out.println("Thank you for playing! Come back to waste more of your time??");
     }
 }
